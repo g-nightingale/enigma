@@ -1,2 +1,2 @@
 # enigma
-Python implementation of German Enigma machine
+Python implementation of Enigma machine
